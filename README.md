@@ -1,4 +1,3 @@
 This repository contains materials and files related to Quality Profiles and Test Set Profiles, which have been introduced by Giovanni Fasano, Christian Piermarini and Massimo Roma 
 in 2025. Quality Profiles are able to benchmarking solvers for optimization problems, with specific attention to the accuracy of the solution found by solvers 
-on given test sets. Quality Profiles apply to both exact and heuristic solvers, as well as to solvers for smooth and derivative-free optimization.
-...work in progress...
+on given test sets. On the other hand, Test Set Profiles provide a measure to evaluate the consistency of a test set for the chosen solvers to be compared. Both Quality Profiles and Test Set Profiles can be applied for the comparison of both exact and heuristic solvers, as well as for solvers adopted in smooth and derivative-free optimization.
